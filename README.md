@@ -14,7 +14,7 @@ New Additions: We've recently partnered with a supplier of conjured items, which
 Remember, while an item's quality cannot exceed 50 under normal circumstances, "Sulfuras" remains a legendary exception.
 
 
-## Estructura del Proyecto
+## Structure
 - **/Properties**: Archivos relacionados con la configuración y propiedades del proyecto.
 - **/Models**: Classes that represent entities or components of the application model.
 - **/Tests**: Unit test files.
