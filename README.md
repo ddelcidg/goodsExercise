@@ -19,7 +19,7 @@ Remember, while an item's quality cannot exceed 50 under normal circumstances, "
 - **/Models**: Classes that represent entities or components of the application model.
 - **/Tests**: Unit test files.
 - **/Enums** (o **/Constants**): Constants or enumerations used in the project.
-- Otros archivos y carpetas: **Descripción de otras partes importantes del proyecto**
+
 
 ## Requirements
 - **.net framework 4.5.2**
